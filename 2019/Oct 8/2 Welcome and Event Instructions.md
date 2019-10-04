@@ -48,16 +48,21 @@ Also, the most popular technology indicated in the interest form is Javascript, 
 
 ### Finding an Issue
 1. Find an outstanding issue on an open source one of you use. Try to follow the dependency graphs and see if any of the dependencies need help. The dependencies tend to be smaller-sized, so they may be lower-barrier to understand.
+1. [Alphabet Keys](https://github.com/ericadamski/alphabet-keys) looks to be a simple JS project. Look for open issues, or test it, find bugs and fix them.
+1. You can [help build a portfolio](https://github.com/BennyCarlsson/MyPortfolio-Hacktoberfest2019)?
+1. See if you can help Home Depot with their [Infinite Wish Board](https://github.com/homedepot/infinite-wish-board).
+1. Help others learn javascript by helping [Awesome Learning](https://github.com/wayfair/awesome-learning).
 1. Parse through the projects near the bottom of [hacktoberfest site](https://hacktoberfest.digitalocean.com/). You can filter by your desired technology.
 1. Parse through the projects listed on [awesome for beginners repo](https://github.com/mungell/awesome-for-beginners).
+1. Help out [Cyber Chef](https://github.com/gchq/CyberChef)?
 1. Parse through [issues](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Abeginner&state=open&type=Issues) with the `beginner` label.
 1. Parse through [issues](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy&type=Issues) with the `easy` label.
 1. Parse through [issues](https://github.com/search?l=JavaScript&q=is%3Aissue+is%3Aopen+label%3Agood-first-bug&type=Issues) with the `good-first-bug` label.
 1. Parse through [issues](https://github.com/search?l=JavaScript&q=is%3Aissue+is%3Aopen+label%3Astarter&type=Issues) with the `starter` label.
 1. Parse through [issues](https://github.com/search?l=JavaScript&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=Issues) with the `up-for-grabs` label.
-1. If you want something simpler that is in Ruby, you can help Dev Together by contributing to our [Google Sheets Pairing](https://github.com/mercedesb/google-sheets-pairing), which we use to pair people up for our regular pairing events.
 1. [Transcripts](https://github.com/thechangelog/transcripts) typically has low-barrier issues people can work on.
 1. If you're up for a challenge, parse through [issues](https://github.com/search?l=JavaScript&q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=Issues) with the `good first issue` label.
+1. If you want something simpler that is in Ruby, you can help Dev Together by contributing to our [Google Sheets Pairing](https://github.com/cristinaruth/google-sheets-pairing), which we use to pair people up for our regular pairing events. Ask Cristina for guidance on how to use it. Then, create the documentation afterwards? :)
 
 ### References
 * Git commands cheatsheet - https://github.com/joshnh/Git-Commands

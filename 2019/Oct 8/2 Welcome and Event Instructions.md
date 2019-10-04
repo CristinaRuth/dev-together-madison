@@ -52,9 +52,9 @@ Also, the most popular technology indicated in the interest form is Javascript, 
 1. You can [help build a portfolio](https://github.com/BennyCarlsson/MyPortfolio-Hacktoberfest2019)?
 1. See if you can help Home Depot with their [Infinite Wish Board](https://github.com/homedepot/infinite-wish-board).
 1. Help others learn javascript by helping [Awesome Learning](https://github.com/wayfair/awesome-learning).
+1. Help out [Cyber Chef](https://github.com/gchq/CyberChef)?
 1. Parse through the projects near the bottom of [hacktoberfest site](https://hacktoberfest.digitalocean.com/). You can filter by your desired technology.
 1. Parse through the projects listed on [awesome for beginners repo](https://github.com/mungell/awesome-for-beginners).
-1. Help out [Cyber Chef](https://github.com/gchq/CyberChef)?
 1. Parse through [issues](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Abeginner&state=open&type=Issues) with the `beginner` label.
 1. Parse through [issues](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy&type=Issues) with the `easy` label.
 1. Parse through [issues](https://github.com/search?l=JavaScript&q=is%3Aissue+is%3Aopen+label%3Agood-first-bug&type=Issues) with the `good-first-bug` label.

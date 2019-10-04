@@ -38,41 +38,26 @@ Also, the most popular technology indicated in the interest form is Javascript, 
 1. Introduce yourselves.
 1. Decide which computer to use for the pairing. Ideally, this computer will have the [Github.com](https://www.github.com) account, an IDE (e.g. [VSCode](https://code.visualstudio.com/)) already installed, and [Mobster](http://mobster.cc/) installed to faciliate the pairing process.
 1. Sign up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/), if desired.
-1. If mentee is unfamiliar with making pull requests, decide together if it makes sense to go through it together and practice by following [these instructions](https://github.com/firstcontributions/first-contributions). []
-  * If you're completely new to Git and Github, you can read through our [basics workshop presentation and work through exercises](https://github.com/CristinaRuth/dev-together-workshop-github-basics).
+1. If mentee is unfamiliar with making pull requests, decide together if it makes sense to go through it together and practice by following [these instructions](https://github.com/firstcontributions/first-contributions). [Open Pixel Art](https://github.com/twilio-labs/open-pixel-art) is also an alternative project to practice on.
+1. Find an issue you can work on together. (see finding an issue section below)
+1. Read the `README.md` and `Contributing.md` (if it exists) to understand what the project is about and what types of contributions they’re looking for.
+1. Fork/Clone the repo.
+1. Run Mobster to track time at the keyboard
+1. Pairing session: Switch keyboard every 5 minutes
+1. Submit pull request (if applicable)
 
-# Old Text below
+### Finding an Issue
+1. Find an outstanding issue on an open source one of you use. Try to follow the dependency graphs and see if any of the dependencies need help. The dependencies tend to be smaller-sized, so they may be lower-barrier to understand.
+1. Parse through the projects near the bottom of [hacktoberfest site](https://hacktoberfest.digitalocean.com/). You can filter by your desired technology.
+1. Parse through the projects listed on [awesome for beginners repo](https://github.com/mungell/awesome-for-beginners).
+1. Parse through [issues](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Abeginner&state=open&type=Issues) with the `beginner` label.
+1. Parse through [issues](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy&type=Issues) with the `easy` label.
+1. Parse through [issues](https://github.com/search?l=JavaScript&q=is%3Aissue+is%3Aopen+label%3Agood-first-bug&type=Issues) with the `good-first-bug` label.
+1. Parse through [issues](https://github.com/search?l=JavaScript&q=is%3Aissue+is%3Aopen+label%3Astarter&type=Issues) with the `starter` label.
+1. Parse through [issues](https://github.com/search?l=JavaScript&q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=Issues) with the `up-for-grabs` label.
+1. If you want something simpler that is in Ruby, you can help Dev Together by contributing to our [Google Sheets Pairing](https://github.com/mercedesb/google-sheets-pairing), which we use to pair people up for our regular pairing events.
+1. [Transcripts](https://github.com/thechangelog/transcripts) typically has low-barrier issues people can work on.
+1. If you're up for a challenge, parse through [issues](https://github.com/search?l=JavaScript&q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=Issues) with the `good first issue` label.
 
-Set expectations
-
-Javascript most popular per interest form.
-
-If people want to self-organize to other technologies they are welcome
-
-
-Get a free shirt! Hacktoberfest going on! https://hacktoberfest.digitalocean.com/
-
-Sign up and register and complete 4 PRs in October.
-
-Other swags https://hacktoberfestswaglist.com/
-
-Check status at https://hacktoberfest.digitalocean.com/profile
-
-
-
-Quick talk on Open Source projects:
-
-Why we chose this activity
-(Free, learn new technologies, xxx)
-
-https://www.makeuseof.com/tag/people-contribute-open-source-projects/
-
-Gain experience from working on an existing codebase. Working at consulting companies will have you create projects from scratch but larger companies with existing apps/systems will get you working on existing codebases majority of the time. Both are very different experiences and you having experience in both will give you a leg up over other new coders on getting your first dev job.
-
-Include contributions as part of your resume/portfolio. Open source means everybody can see the source, which includes commits and pull requests. Commits and pull requests showcase your coding style, documentation capabilities, and clarity when making commits. Employers are able to easily see your commits and assess them.
-
-Giving back. Open source takes a lot of time from maintainers and a lot of helpful technologies we use today are open source (i.e. reactjs). If we’ve got the time, give back and make the world a better place so everybody can benefit from each other.
-
-What we want people to get out of the experience
-
-Set expectations, we aren’t expecting that they will complete all tasks. Just get as far as you can, learn, and have a great conversation
+### References
+* Git commands cheatsheet - https://github.com/joshnh/Git-Commands

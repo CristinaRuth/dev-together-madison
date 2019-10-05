@@ -19,6 +19,10 @@ Per Oxford:
 
 1. **Give back.** Open source takes a lot of time from maintainers and a lot of helpful technologies we use today are open source (i.e. reactjs). If we’ve got the time, give back and make the world a better place so everybody can benefit from each other.
 
+## Contributing to Open Source
+
+Open source contributions **do not have to be code**! [Open Source Guide](https://opensource.guide/how-to-contribute/) tells us many ways we can contribute including improving documentation or spelling errors.
+
 ## Goal Tonight
 
 The goal for tonight is to just get experience at attempting to contribute to open source. There are a LOT of articles out there on how to do this, and it can quickly get overwhelming.
@@ -39,7 +43,7 @@ Also, the most popular technology indicated in the interest form is Javascript, 
 1. Decide which computer to use for the pairing. Ideally, this computer will have the [Github.com](https://www.github.com) account, an IDE (e.g. [VSCode](https://code.visualstudio.com/)) already installed, and [Mobster](http://mobster.cc/) installed to faciliate the pairing process.
 1. Sign up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/), if desired.
 1. If mentee is unfamiliar with making pull requests, decide together if it makes sense to go through it together and practice by following [these instructions](https://github.com/firstcontributions/first-contributions). [Open Pixel Art](https://github.com/twilio-labs/open-pixel-art) is also an alternative project to practice on.
-1. Find an issue you can work on together. (see finding an issue section below)
+1. Find an issue you can work on together. *(see finding an issue section below)* __*[If you're stuck, see [Open Source Guide](https://opensource.guide/how-to-contribute/) for ideas on how to contribute.]*__
 1. Read the `README.md` and `Contributing.md` (if it exists) to understand what the project is about and what types of contributions they’re looking for.
 1. Fork/Clone the repo.
 1. Run Mobster to track time at the keyboard
@@ -66,3 +70,4 @@ Also, the most popular technology indicated in the interest form is Javascript, 
 
 ### References
 * Git commands cheatsheet - https://github.com/joshnh/Git-Commands
+* Github markdown cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet

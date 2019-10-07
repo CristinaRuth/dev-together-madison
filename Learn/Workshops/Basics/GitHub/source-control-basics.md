@@ -212,4 +212,4 @@ To create a fork, navigate to the GitHub page of the project you want to fork, [
 ## Exercise #3
 See our `Issues` section for exercise #3.
 
-*Credit to Steve Perkins for getting this written out.*
+*Credit to Steve Perkins for getting this written out from presentation form to markdown form.*

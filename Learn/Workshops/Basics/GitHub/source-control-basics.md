@@ -1,5 +1,5 @@
-# Source Control Basics
-[View in presentation form](https://docs.google.com/presentation/d/1o78CV_huVXuK9IWuLFwoLwQeXjwNLf_wGkF5tnlgrRY)
+# 1 - Source Control Basics
+[View in presentation form](Github Source Control and Basics.pdf)
 
 ## Topics Covered
 * Source Control - What, Why, Benefits for Individuals and Teams
@@ -140,8 +140,10 @@ Let's go through this step-by-step.
 4. Developer uses `git commit -m "Commit message"` to bundle all of the staged changes into a single commit to the local repository.
 5. Developer uses `git push` to send all of the new commits in the local repository to the remote repository. At this point the local and remote repositories have identical code.
 
+## Exercise #1
+See our `Issues` section for exercise.
 
-# Branching
+# 2 - Branching
 ## Topics Covered
 * What is branching?
 * Basic Branching Terms
@@ -197,11 +199,17 @@ Let's break it down step-by-step:
 ## Branching Strategies
 Branching strategies are often a topic of much discussion and consternation. There are quite a few branching strategies, and all of them have pros and cons. One strategy is to create branches prefixed with `/feature/` when working on new feature code and `/bug/` when working on a bugfix. This helps keep all of the branches organized, and the project maintainer will know whether they're merging a bugfix or a feature when reviewing PRs.
 
-# Forking Workflow
+## Exercise #2
+See our `Issues` section for exercise #2.
+
+# 3 - Forking Workflow
 **"Forking"** is when you create a copy of an entire remote repository, including all of its branches. Forking is a platform (GitHub, BitBucket, etc) feature. Developers create a fork when they:
 * Want to make changes in a project where they aren't implicitly trusted, via a PR
 * Want to experiment with a codebase they do not own
 
 To create a fork, navigate to the GitHub page of the project you want to fork, [such as this one](https://github.com/steveperkins/dev-together-workshop-github-basics), and click the gray **Fork** button at the top of the page. This creates a copy of the entire project repository, but in your own account, where you're free to create branches, delete code, update files, etc. When you're ready to ask the project's maintainer to incorporate your changes, you'll create a pull request and they'll approve it.
+
+## Exercise #3
+See our `Issues` section for exercise #3.
 
 *Credit to Steve Perkins for getting this written out.*

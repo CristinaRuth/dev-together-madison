@@ -141,7 +141,7 @@ Let's go through this step-by-step.
 5. Developer uses `git push` to send all of the new commits in the local repository to the remote repository. At this point the local and remote repositories have identical code.
 
 ## Exercise #1
-See our `Issues` section for exercise.
+Follow the steps in [this issue](https://github.com/CristinaRuth/dev-together-madison/issues/9) to try and apply what was just covered around source control and basic git commands.
 
 # 2 - Branching
 ## Topics Covered
@@ -200,7 +200,7 @@ Let's break it down step-by-step:
 Branching strategies are often a topic of much discussion and consternation. There are quite a few branching strategies, and all of them have pros and cons. One strategy is to create branches prefixed with `/feature/` when working on new feature code and `/bug/` when working on a bugfix. This helps keep all of the branches organized, and the project maintainer will know whether they're merging a bugfix or a feature when reviewing PRs.
 
 ## Exercise #2
-See our `Issues` section for exercise #2.
+Follow the steps in [this issue](https://github.com/CristinaRuth/dev-together-madison/issues/10) to try and apply what was just covered around branching and making a pull request.
 
 # 3 - Forking Workflow
 **"Forking"** is when you create a copy of an entire remote repository, including all of its branches. Forking is a platform (GitHub, BitBucket, etc) feature. Developers create a fork when they:
@@ -210,6 +210,6 @@ See our `Issues` section for exercise #2.
 To create a fork, navigate to the GitHub page of the project you want to fork, [such as this one](https://github.com/steveperkins/dev-together-workshop-github-basics), and click the gray **Fork** button at the top of the page. This creates a copy of the entire project repository, but in your own account, where you're free to create branches, delete code, update files, etc. When you're ready to ask the project's maintainer to incorporate your changes, you'll create a pull request and they'll approve it.
 
 ## Exercise #3
-See our `Issues` section for exercise #3.
+Follow the steps in [this issue](https://github.com/CristinaRuth/dev-together-madison/issues/11) to try and apply what was just covered around forking and making a PR to another user's repo.
 
 *Credit to Steve Perkins for getting this written out from presentation form to markdown form.*

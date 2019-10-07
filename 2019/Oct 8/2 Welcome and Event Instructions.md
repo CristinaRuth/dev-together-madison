@@ -51,6 +51,14 @@ Also, the most popular technology indicated in the interest form is Javascript, 
 1. Submit pull request (if applicable)
 
 ### Finding an Issue
+
+Projects typically have issues created in their `issues` section asking for help. Sometimes, though, you can still help even if there is no issue listed in their project. Some questions below to help you identify items you can help:
+* Is their `README` concise and clear for newcomers? Were you able to understand a lot of it? If not, maybe you can try to make updates and make it more newcomer-friendly?
+* Look through their `README` and all other `.md` files and their `WIKI`. Did you notice any spelling/grammar errors? You can attempt to make corrections and create a PR on this as well.
+* Once you get the project running locally on your computer, play around with it a bit. Are there any bugs you're noticing? If so, create issues for them. Better yet, fix them! Is there a feature you would like to have that it doesn't have? Apply it, create a PR and see if it gets accepted!
+
+Additionally, below are the list of issues/projects we've compiled to try and help you find one you can work on:
+
 1. Find an outstanding issue on an open source one of you use. Try to follow the dependency graphs and see if any of the dependencies need help. The dependencies tend to be smaller-sized, so they may be lower-barrier to understand.
 1. [Alphabet Keys](https://github.com/ericadamski/alphabet-keys) looks to be a simple JS project. Look for open issues, or test it, find bugs and fix them.
 1. You can [help build a portfolio](https://github.com/BennyCarlsson/MyPortfolio-Hacktoberfest2019)?

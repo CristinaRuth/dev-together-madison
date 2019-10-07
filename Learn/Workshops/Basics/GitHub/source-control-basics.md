@@ -1,5 +1,5 @@
 # 1 - Source Control Basics
-[View in presentation form](./Github Source Control and Basics.pdf)
+*View in presentation form - see `Github Source Control and Basics.pdf` located in the same directory as this file.*
 
 ## Topics Covered
 * Source Control - What, Why, Benefits for Individuals and Teams

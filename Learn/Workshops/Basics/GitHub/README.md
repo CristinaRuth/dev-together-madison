@@ -11,8 +11,9 @@
 
 
 # What is Source Control
-**Source = Your Code
-Control = What + Who + When + Why Changed**
+**Source = Your Code**
+
+**Control = What + Who + When + Why Changed**
 
 Source control is the concept of tracking and controlling changes to your source code. A source control system (also known as SCM) tells the story of your project. Source control answers questions about changes, like these:
 * What changed?
@@ -28,7 +29,7 @@ This is a typical individual development workflow without source control:
 ![Diagram showing typical developer workflow without source control](./images/workflow-without-scm.png "Typical individual developer workflow without source control")
 
 
-As you can see, the developer pushes code right to production.
+As you can see, the developer pushes code right to production. *(production is a term used to describe an environment wherein any code/functionality changes are exposed to the system's/app's users)*
 
 There are some crucial problems with this pattern:
 * Any mistakes go **right into production** - the work can't be tested anywhere except the developer's computer
@@ -207,7 +208,7 @@ Follow the steps in [this issue](https://github.com/CristinaRuth/dev-together-ma
 * Want to make changes in a project where they aren't implicitly trusted, via a PR
 * Want to experiment with a codebase they do not own
 
-To create a fork, navigate to the GitHub page of the project you want to fork, [such as this one](https://github.com/steveperkins/dev-together-workshop-github-basics), and click the gray **Fork** button at the top of the page. This creates a copy of the entire project repository, but in your own account, where you're free to create branches, delete code, update files, etc. When you're ready to ask the project's maintainer to incorporate your changes, you'll create a pull request and they'll approve it.
+To create a fork, navigate to the GitHub page of the project you want to fork, [such as this one](https://github.com/steveperkins/dev-together-madison), and click the gray **Fork** button at the top of the page. This creates a copy of the entire project repository, but in your own account, where you're free to create branches, delete code, update files, etc. When you're ready to ask the project's maintainer to incorporate your changes, you'll create a pull request and they'll approve it.
 
 ## Exercise #3
 Follow the steps in [this issue](https://github.com/CristinaRuth/dev-together-madison/issues/11) to try and apply what was just covered around forking and making a PR to another user's repo.

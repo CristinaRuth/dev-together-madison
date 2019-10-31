@@ -1,3 +1,7 @@
+# Coding Problems
+
+Pair junior/senior developers to discuss and practice working through any of the coding problems below.
+
 # Easy
 
 ## Problem #63 [Easy]

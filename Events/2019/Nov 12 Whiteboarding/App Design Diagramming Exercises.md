@@ -1,5 +1,5 @@
 # Diagramming exercise:
-Pair junior/senior developers to discuss and practice the process of diagramming high level architecture for a new application. 
+Pair junior/senior developers to discuss and practice the process of diagramming high level architecture/design for a new application. 
 * Build a movie search app
 * Build a chat app
 * Build a beautiful weather app
